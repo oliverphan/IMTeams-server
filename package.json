@@ -1,0 +1,19 @@
+{
+  "name": "imteams-server",
+  "version": "1.0.0",
+  "description": "API for imteams data store",
+  "main": "app.js",
+  "scripts": {
+    "test":"WARNING: No test script setup!" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverphan/IMTeams-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverphan/IMTeams-server/issues"
+  },
+  "homepage": "https://github.com/oliverphan/IMTeams-server#readme"
+}
